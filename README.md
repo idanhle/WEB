@@ -1,5 +1,5 @@
 <div align="center">
-    <h3> <strong> Only Ducca - Ducca's Personal Page </strong> <h3>
+    <h3> <strong> Thông tin cá nhân của E4zyi </strong> <h3>
 </div>
 
 <h3> <strong> Preview: </strong> </h3>
